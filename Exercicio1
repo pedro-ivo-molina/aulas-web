@@ -10,10 +10,12 @@
   <br>
   <hr>
   <h2>Esse aqui é um Heading 2, com um poema!</h2>
-  <q> Nega-me o pão, o ar,
-		a luz, a primavera,
-		mas nunca o teu riso,
-		porque então morreria.
-		-Pablo Neruda </q>
+  <figure>
+    <p align=center>Nega-me o pão, o ar,<br>
+		            a luz, a primavera,<br>
+		            mas nunca o teu riso,<br>
+		            porque então morreria.<br>
+		           -Pablo Neruda </p>
+  </figure>
 </body>
 </html>
