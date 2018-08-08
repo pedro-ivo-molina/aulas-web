@@ -1,9 +1,19 @@
 <!DOCTYPE html>
+<html lang="pt-BR">
 <html>
 <head>
-  <title>MeuPrimeiroHTMLSozinho</title>
+  <title>Exercício 1</title>
 </head>
 <body>
   <h1>Meu primeiro HTML Sozinho :)</h1>
+  <p>Poxa que legal, to escrevendo meu próprio HTML, Yahooo!</p>
+  <br>
+  <hr>
+  <h2>Esse aqui é um Heading 2, com um poema!</h2>
+  <q> Nega-me o pão, o ar,
+		a luz, a primavera,
+		mas nunca o teu riso,
+		porque então morreria.
+		-Pablo Neruda </q>
 </body>
 </html>
