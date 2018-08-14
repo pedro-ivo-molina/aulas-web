@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<html>
+<head>
+  <title> Exercicio2 </title>
+</head>
+<body>
+  <h2> Sobre um gato (animal) </h2>
+  <p> Descrevendo um gatinho </p>
+  <p>O <b>gato</b> <i>(Felis silvestris catus)</i>, também conhecido como gato caseiro, gato urbano ou gato
+doméstico[4], <mark>é um animal da Família dos felídeos</mark>, <ins>muito popular como animal de estimação.</ins>
+<del>Ocupando o topo da cadeia alimentar</del>, é um predador natural de diversos animais, <sub>como roedores,
+pássaros, lagartixas</sub> e alguns insetos.</p>
+ <p> Fonte <a href="https://pt.wikipedia.org/wiki/Gato"> pt.wikipedia.org/wiki/Gato </a> </p>
+ <bdo dir="rtl">Tudo ao contrário</bdo>
+ <p>Uma equação famosa:E=mc²</p>
+ <br>
+ <p>A leitura é muito importante <sub>para o aprendizado</sub></p>
+ <p>Eu gosto de citar <cite>"There is no peace without pain"</cite></p>
+ <p><i>Feito por: <b>Pedro Molina</b></p>
+  Na aula de Web :)</i></p>
+</body>
+</html>
