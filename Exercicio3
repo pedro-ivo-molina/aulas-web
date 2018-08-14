@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<html>
+<table border="1">
+  <caption>Funcionarios</caption>
+  <tr>
+    <th>Nome</th>
+    <th>Função</th>
+    <th colspan="2">E-mails</th>
+  </tr>
+  <tr>
+    <td>Juca</td><td>Limpesa</td><td>juca@hotmail.com</td>
+  </tr>
+  <tr>
+    <td>Otávio</td><td>Programador</td><td>otavio@hotmail.com</td><td>otavio@gmail.com</td>
+  </tr>
+  <tr>
+    <td>Marlon</td><td>Designer</td><td>marlinho@hotmail.com</td><td>marlon.design@gmail.com</td>
+  </tr>
+</table>
+<br>
+<br>
+<br>
+<br>
+<br>
+<table border="1">
+  <caption>Tabela de gastos</caption>
+  <tr>
+    <th>Tipo</th>
+    <th>Descrição</th>
+    <th>Valor</th>
+  </tr>
+  <tr>
+    <th rowspan="5"><b>Descrição</b></th>
+    <td>Compras do mês</td><td>R$200,00</td>
+  </tr>
+  <tr>
+    <td>Aluguel</td><td>R$500,00</td>
+  </tr>
+  <tr>
+    <td>Luz</td><td>R$100,00</td>
+  </tr>
+  <tr>
+    <td>Água</td><td>R$60,00</td>
+  </tr>
+  <tr>
+    <td>Telefone</td><td>R$90,00</td>
+  </tr>
+  <tr>
+    <th rowspan="2"><b>Externa</b></th>
+    <td>Gasolina</td><td>R$450,00</td>
+  </tr>
+  <tr>
+    <td>Almoço</td><td>R$200,00</td>
+  </tr>
+  <tr>
+    <td colspan="2">Subtotal</td><td>R$2000,00</td>
+  </tr>
+</html>
