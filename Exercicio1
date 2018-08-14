@@ -11,11 +11,22 @@
   <hr>
   <h2>Esse aqui é um Heading 2, com um poema!</h2>
   <blockquote>
-    <p align=center>Nega-me o pão, o ar,<br>
+    <p align=center><small>Nega-me o pão, o ar,<br>
 		            a luz, a primavera,<br>
 		            mas nunca o teu riso,<br>
 		            porque então morreria.<br>
-		           -Pablo Neruda </p>
+		           -Pablo Neruda </p></small>
   </blockquote>
+  <p> a seguir uma imagem qualquer </p>
+  <br>
+  <img src="https://picsum.photos/200/?random" width="104" height="104">
+  <br>
+  <a href="https://rio2016.com"> link para o site das olimpiadas</a>
+  <br>
+  <a href="https://todocartoes.com.br"> link para um site qualquer</a>
+  <br>
+  <p> Imagem sendo um link </p>
+  <a href="https://outback.todocartoes.com.br/">
+    <img src="https://picsum.photos/200/?random" width="104" height="104"> </a>
 </body>
 </html>
